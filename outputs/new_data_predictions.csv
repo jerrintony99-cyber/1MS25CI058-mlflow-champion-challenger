@@ -1,0 +1,9 @@
+registry_alias,registry_version,text,predicted_label,predicted_sentiment,confidence,hf_model_id
+@champion,v1,The build quality of this laptop exceeded every expectation I had.,1,POSITIVE,0.9966,distilbert-base-uncased-finetuned-sst-2-english
+@champion,v1,Customer support kept me on hold for an hour and never solved the issue.,0,NEGATIVE,0.9997,distilbert-base-uncased-finetuned-sst-2-english
+@champion,v1,"It works fine for basic tasks, though the battery drains faster than advertised.",1,POSITIVE,0.9959,distilbert-base-uncased-finetuned-sst-2-english
+@champion,v1,Absolutely brilliant cinematography and a gripping storyline from start to finish.,1,POSITIVE,0.9999,distilbert-base-uncased-finetuned-sst-2-english
+@champion,v1,The update broke half my extensions and slowed down startup time significantly.,0,NEGATIVE,0.997,distilbert-base-uncased-finetuned-sst-2-english
+@champion,v1,Delivery arrived two days early and the packaging was completely intact.,1,POSITIVE,0.9995,distilbert-base-uncased-finetuned-sst-2-english
+@champion,v1,"I wanted to love this book, but the pacing in the second half was painful.",0,NEGATIVE,0.9991,distilbert-base-uncased-finetuned-sst-2-english
+@champion,v1,"Clean interface, zero crashes so far, and very intuitive keyboard shortcuts.",0,NEGATIVE,0.9883,distilbert-base-uncased-finetuned-sst-2-english

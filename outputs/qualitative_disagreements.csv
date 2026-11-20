@@ -1,0 +1,7 @@
+sample_id,text,reference_sentiment,model_a_pred,model_a_conf,model_b_pred,model_b_conf,analysis_note
+48,the primitive force of this film seems to bubble up from the vast collective memory of the combatants . ,POSITIVE,POSITIVE,0.9895,NEGATIVE,0.9984,Model A predicted accurately; Model B over-interpreted
+57,"the script kicks in , and mr. hartley 's distended pace and foot-dragging rhythms follow . ",NEGATIVE,POSITIVE,0.8576,NEGATIVE,0.9995,Model B captured nuance/context missed by Model A
+67,good old-fashioned slash-and-hack is back ! ,POSITIVE,POSITIVE,0.9982,NEGATIVE,0.8867,Model A predicted accurately; Model B over-interpreted
+72,manages to be both repulsively sadistic and mundane . ,NEGATIVE,NEGATIVE,0.9981,POSITIVE,0.9795,Model A predicted accurately; Model B over-interpreted
+84,unflinchingly bleak and desperate ,NEGATIVE,NEGATIVE,0.999,POSITIVE,0.9937,Model A predicted accurately; Model B over-interpreted
+86,the iditarod lasts for days - this just felt like it did . ,NEGATIVE,NEGATIVE,0.9552,POSITIVE,0.9957,Model A predicted accurately; Model B over-interpreted

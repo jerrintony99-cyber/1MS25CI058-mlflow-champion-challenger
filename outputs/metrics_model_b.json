@@ -1,0 +1,12 @@
+{
+  "hf_model_id": "siebert/sentiment-roberta-large-english",
+  "role": "challenger_candidate",
+  "metrics": {
+    "accuracy": 0.9,
+    "macro_f1": 0.8996386993175431,
+    "precision": 0.9009661835748792,
+    "recall": 0.8990384615384616,
+    "avg_latency_ms": 135.989548,
+    "total_inference_s": 13.598954800000001
+  }
+}

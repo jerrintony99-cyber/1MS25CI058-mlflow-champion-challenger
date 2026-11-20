@@ -1,0 +1,12 @@
+{
+  "hf_model_id": "distilbert-base-uncased-finetuned-sst-2-english",
+  "role": "champion_candidate",
+  "metrics": {
+    "accuracy": 0.94,
+    "macro_f1": 0.9397832195905259,
+    "precision": 0.9412238325281803,
+    "recall": 0.9391025641025641,
+    "avg_latency_ms": 16.731820999999627,
+    "total_inference_s": 1.6731820999999627
+  }
+}
